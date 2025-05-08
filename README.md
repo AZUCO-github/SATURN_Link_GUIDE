@@ -11,7 +11,7 @@ http://ppcenter.free.fr/satcart/SatLink_20170119.7z
 http://www.rockin-b.de/saturn/minesweeper/MineSweeper2003_060103_src.7z  
 
 # additional notice
-cheked envairoment  
+evaluted envairoment  
 Windows11 pro (24H2)  
 white SATURN  
 
