@@ -11,3 +11,15 @@ http://ppcenter.free.fr/satcart/SatLink_20170119.7z
 http://www.rockin-b.de/saturn/minesweeper/MineSweeper2003_060103_src.7z  
 
 # additional notice
+firmware  
+https://github.com/andersm/usbcart/tree/master/cartrom  
+
+firmware flasher  
+https://github.com/andersm/usbcart/tree/master/arflasher  
+However, if the firmware crashes on startup, it will not start up, so be careful.
+Is it possible to recover it by burning it to a CD using ldscript_cd?
+When you start the program and press the START button on the pad, it will detect the flash ROM.
+If it is a flash that supports writing, you can erase and write it with A+B+C+START, then it will finish.
+
+# thanks for
+I learned a lot from K.i san.
