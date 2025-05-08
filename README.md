@@ -1,3 +1,5 @@
+https://ppcenter.webou.net/satcart/
+
 install & load & run guide
 https://ppcenter.webou.net/satcart/files/SEGA_Saturn_USB_devcard_Win7_64.pdf
 
