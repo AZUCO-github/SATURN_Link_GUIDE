@@ -9,11 +9,3 @@ http://ppcenter.free.fr/satcart/SatLink_20170119.7z
 http://www.rockin-b.de/saturn/minesweeper/MineSweeper2003_060103_src.7z
 
 # additional notice
-Test the connection with SatLink.exe
-power on saturn
-title > lisence > green screen
-you can use satlink.
-
-
-
-
